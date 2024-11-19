@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>IKravchenko</id>
+        <version>1.0.0</version>
+        <authors>Kravchenko Ihor</authors>
+        <description>ClassLibraryLab3</description>
+        <dependencies>
+        </dependencies>
+    </metadata>
+</package>
