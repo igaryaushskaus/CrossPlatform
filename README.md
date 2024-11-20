@@ -14,3 +14,10 @@ dotnet build Build.proj -t:Build -p:Solution=Lab1
 ```bash
 dotnet build Build.proj -t:Test -p:Solution=Lab1
 ```
+
+# Lab4
+
+## Comand example: 
+```bash
+dotnet run run lab1 --input Lab1 --output Lab1
+```

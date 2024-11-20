@@ -63,7 +63,7 @@ namespace Lab1
         }
 
         // Method to read input data from the file
-        static void ReadInput(out int N, out decimal[] USD, out decimal[] EUR, string inputFilePath)
+        public static void ReadInput(out int N, out decimal[] USD, out decimal[] EUR, string inputFilePath)
         {
             using (StreamReader sr = new StreamReader(inputFilePath))
             {
