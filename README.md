@@ -28,3 +28,10 @@ dotnet run run lab1 --input Lab1 --output Lab1
 ![image](https://github.com/user-attachments/assets/6be92e2f-e741-43d9-a852-04d71329988e)
 ![image](https://github.com/user-attachments/assets/5e83e450-379a-4a63-b583-f0962b12adde)
 
+# Lab5
+
+![image](https://github.com/user-attachments/assets/76a72ce4-63a0-427f-a8b7-53c9ee04ec30)
+![image](https://github.com/user-attachments/assets/c20892f0-c813-4ef3-ab22-49b78143f4df)
+![image](https://github.com/user-attachments/assets/d9d0afef-8c8e-427d-abc1-18ece014b10f)
+![image](https://github.com/user-attachments/assets/b6376434-2c3b-4ca4-ae19-ea81bbc4b65a)
+
